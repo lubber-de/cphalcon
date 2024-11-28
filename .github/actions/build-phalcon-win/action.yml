@@ -14,7 +14,7 @@ inputs:
     required: false
     default: 'nts'
   msvc:
-    description: 'Microsoft Visual C++ compiler toolset prefix (e.g: vc14, vs15, vs16)'
+    description: 'Microsoft Visual C++ compiler toolset prefix (e.g: vc14, vs15, vs16, vs17)'
     required: true
   arch:
     description: 'Target architecture (x64, x86)'
